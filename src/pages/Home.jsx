@@ -13,7 +13,7 @@ const Home = () => {
       <div
         className="flex-1 flex flex-col items-center justify-center text-center p-6"
         style={{
-          backgroundImage: `url(${backgroundImage})`,
+          // backgroundImage: `url(${backgroundImage})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",

@@ -16,7 +16,7 @@ const Sidebar = ({ hideAdmin = false }) => {
 
   return (
     <div
-      className={`fixed top-0 left-0 h-screen bg-slate-300 shadow-md flex flex-col p-6 transition-all duration-300 ease-in-out ${
+      className={`fixed top-0 left-0 h-screen bg-pink-300 shadow-md flex flex-col p-6 transition-all duration-300 ease-in-out ${
         isOpen ? "w-64" : "w-0"
       } overflow-hidden`}
       onMouseEnter={() => setIsOpen(true)}
