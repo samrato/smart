@@ -26,7 +26,7 @@ const Home = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, ease: "easeOut" }}
         >
-          Welcome to Smartdaro
+          Welcome To SmartDaro
         </motion.h1>
 
         {/* Typing Effect Project Description */}

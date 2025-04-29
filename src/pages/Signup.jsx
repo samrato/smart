@@ -53,6 +53,8 @@ const Signup = () => {
     }
   };
 
+  
+
   return (
     <div className="flex min-h-screen items-center justify-center bg-gray-100 p-4">
       <div className="bg-white shadow-md rounded-lg overflow-hidden max-w-4xl w-full flex">

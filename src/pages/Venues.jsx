@@ -7,7 +7,7 @@ const Venues = () => {
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState("");
 
-  const API_URL = "https://mwalimusmarter.up.railway.app/api/venues"; // Adjust according to your backend
+  const API_URL = "https://mwalimusmarter.up.railway.app/api/venues"; // 
 
   const handleAddVenue = async (e) => {
     e.preventDefault();

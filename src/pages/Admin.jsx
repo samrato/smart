@@ -18,7 +18,7 @@ const Admin = () => {
       >
         {/* Header */}
         <header className="absolute top-0 left-64 w-[calc(100%-16rem)] bg-gray-900 text-white py-4 text-center text-3xl font-bold">
-          Smartdaro Admin Panel
+            SMARTDARO ADMIN PANEL
         </header>
 
         {/* Page Content */}
