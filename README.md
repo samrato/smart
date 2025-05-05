@@ -1,6 +1,8 @@
 🎓 SmartDaro Frontend
 
 SmartDaro Frontend is the user-facing interface for the SmartDaro system — a smart academic management platform powered by AI. Built with React and styled for performance and clarity, it allows students, lecturers, and administrators to interact with features like room allocation, timetables, and real-time alerts.
+Here is the live FROTEND 
+
 [**Live Demo**](https://smartdarofronted.vercel.app/)
 
     🔗 SmartDaro Backend – Built with Node.js & Express.js.
